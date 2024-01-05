@@ -72,6 +72,9 @@ public:
         cout << "Угол между векторами равен = " << acos(ygol(b)) * 180 / 3.14 << " градусов" << endl; 
     }
      
+    //добавил изменения
+
+
     void print_vect_ym() {
         cout << x << "i ";
         int d = 1, f = 1;
